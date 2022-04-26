@@ -19,9 +19,7 @@ https://www.kaggle.com/datasets/datamunge/sign-language-mnist
 
 4) Demo of Video-To-Text/Alphabet Generator
 
-![15](https://user-images.githubusercontent.com/66385142/162827900-093593f2-3786-4e8c-a670-c5bd1649aaa4.PNG)
-![16](https://user-images.githubusercontent.com/66385142/162827908-caccc55f-c353-4e26-812b-5ce182e3b487.PNG)
-![17](https://user-images.githubusercontent.com/66385142/162827926-210f3a7b-0146-463f-aba2-2fc7d093783a.PNG)
+https://youtu.be/gRyl_HitnrU
 
 5) References :
 
