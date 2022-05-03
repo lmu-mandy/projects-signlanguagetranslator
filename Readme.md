@@ -29,3 +29,8 @@ With the recent progress on applying Deep Learning to Natural Language Processin
 
 [3] For building neural network model, we followed this link :
 <https://www.digitalocean.com/community/tutorials/how-to-build-a-neural-network-to-translate-sign-language-into-english>
+
+## Steps To Run This Project
+1) Download The Dataset From The Given Link (Kaggle) (Make Sure The Path Of the Folders Are Given Correctly)
+2) Run Both The .ipynb Files
+3) Run The Application.py File And You Will Be Good To Go
