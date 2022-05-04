@@ -6,7 +6,7 @@ import shutil
 import csv
 
 def convert_everything_to_mp4():
-    cmd = 'bash data/scripts/swf2mp4.sh'
+    cmd = 'cd data_retrieval/scripts && bash swf2mp4.sh && cd ../..'
     os.system(cmd)
 
 
@@ -20,7 +20,7 @@ def video_to_frames(video_path, size=None):
     old_frames = []
     frames = []
     while True:
-        ret, frame = videoSRC.read(old_frames)
+        ret, frame = videoSRC.read()
         if ret:
             height, width, layers = frame.shape
             if size is None:
@@ -160,7 +160,7 @@ def createCSV(dir_path, csv_name):
 
 
 def main():
-    # convert_everything_to_mp4()
+    convert_everything_to_mp4()
     content = json.load(open('WLASL_v0.3.json'))
     extract_all_yt_instances(content)
 

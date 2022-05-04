@@ -2,8 +2,8 @@
 
 echo "Start converting formats.."
 
-src_path='../raw_videos'
-dst_path='../raw_videos_mp4'
+src_path='../../data/raw_videos'
+dst_path='../../data/raw_videos_mp4'
 
 if [ ! -f "${dst_path}" ]; then
 	mkdir ${dst_path}
