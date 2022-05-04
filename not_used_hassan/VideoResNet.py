@@ -1,3 +1,7 @@
+'''
+This file was taken from the PyTorch API Documentation and has not been altered
+'''
+
 from typing import Tuple, Optional, Callable, List, Sequence, Type, Any, Union
 
 import torch.nn as nn
