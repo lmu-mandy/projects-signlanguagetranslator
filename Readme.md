@@ -37,4 +37,5 @@ With the recent progress on applying Deep Learning to Natural Language Processin
 
 ## Special Comments
 It's Very Easy To Understand And Run The Code As We Have Added The Comments And Text In The Jupyter Notebooks And Also We Have Already Setup Everything For You! 
+
 Finally, Thanks A Lot Dr. Korpusik For Everything! We Really Enjoyed Your Lectures And Got To Learn And Explore A Lot!
